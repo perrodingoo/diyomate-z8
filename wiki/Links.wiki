@@ -1,0 +1,14 @@
+#summary Useful web links.
+
+= URLs =
+
+Some web links and bookmarks bout Realtek 1283 stuff and scripts:
+  * http://code.google.com/p/media-translate/ (*Russian* Realtek 1073/1283 scripts project)
+  * http://code.google.com/p/eboda-hd-for-all-500/(Realtek 1073/1283 firmware modifications for *Eboda* HD for all 500mini/500/500plus models)
+  * http://code.google.com/p/open-hmr/ (Spanish language project about firmware mods for HMR and Woxter media-players)
+  * http://forum.iconbit.ru/viewtopic.php?f=40&t=4444 (Russian forum about RSS web services modifications)
+  * http://sayler.ru/node/8 (Russian project about IPTV and "mu3." playlists for Realtek 1073/1283/1183/1185 based MPs. The project used sources from _msdl.sourceforge.net_)
+  * http://msdl.sourceforge.net/ (Japanese project about multi-protocol downloader for various streaming protocols)
+  * https://sites.google.com/site/farvoice/
+  * http://www.moservices.org/forum/viewtopic.php?f=40&t=1029&start=4080
+  * http://glavnee.net/support/faq.php
