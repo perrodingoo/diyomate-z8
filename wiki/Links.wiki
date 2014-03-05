@@ -12,3 +12,5 @@ Some web links and bookmarks bout Realtek 1283 stuff and scripts:
   * https://sites.google.com/site/farvoice/
   * http://www.moservices.org/forum/viewtopic.php?f=40&t=1029&start=4080
   * http://glavnee.net/support/faq.php
+  * http://club.dx.com/forums/forums.dx/threadid.854211 (other mod tips)
+  * http://www.avforums.com/threads/realtek-rtd1073-hacking-flashing.1151270/ (firmware hacking)
